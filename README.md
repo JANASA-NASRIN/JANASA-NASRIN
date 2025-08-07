@@ -62,7 +62,7 @@
 ### 🐱 Fun Developer GIF
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="300" alt="Coding Girl GIF" />
+  <img src=" https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="300" alt="Coding Girl GIF" />
 </p>
 
 
