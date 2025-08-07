@@ -62,10 +62,8 @@
 ### 🐱 Fun Developer GIF
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="300" alt="Animated Girl Typing Fast" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 </p>
-
-
 ---
 
 ### 📢 “Always keep learning — one line of code at a time.”
