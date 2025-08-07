@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi there 👋, I'm Janasa Ara Nasrin</h1>
-<h3 align="center">💻 Front-End Developer | 🎓 CSE Student | ✨ UI Enthusiast</h3>
+<h3 align="center">💻 Front-End Developer | 🎓 CSE Student | ✨ React & Tailwind Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jenesanasrin&label=Profile%20Views&color=blueviolet&style=flat" alt="jenesanasrin" />
@@ -59,10 +59,10 @@
 
 ---
 
-### 🐱 Fun Developer GIF
+
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/l41lFw057lAJQMwg0/giphy.gif" width="300" alt="Girl working on laptop and sipping coffee" />
 </p>
 ---
 
