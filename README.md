@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi there 👋, I'm Jenesa Ara Nasrin</h1>
+<h1 align="center">Hi there 👋, I'm Janasa Ara Nasrin</h1>
 <h3 align="center">💻 Front-End Developer | 🎓 CSE Student | ✨ UI Enthusiast</h3>
 
 <p align="center">
@@ -43,11 +43,11 @@
 ### 💻 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jenesanasrin&show_icons=true&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JANASA-NASRIN&show_icons=true&theme=dracula" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jenesanasrin&theme=dracula" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JANASA-NASRIN&theme=dracula" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jenesanasrin&layout=compact&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JANASA-NASRIN&layout=compact&theme=dracula" />
 </p>
 
 ---
