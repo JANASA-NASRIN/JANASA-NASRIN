@@ -32,13 +32,6 @@
 
 ---
 
-### 📌 Pinned Projects
-
-- 🔗 [Ecommerce01](https://github.com/JANASA-NASRIN/Ecommerce01) – React Shopping Site  
-- 🌐 [Portfolio](https://github.com/JANASA-NASRIN/portfolio) – My personal site  
-- 🧪 [Tailwind Test](https://github.com/JANASA-NASRIN/tailwind-test) – Design practice
-
----
 
 ### 💻 GitHub Stats
 
@@ -52,12 +45,7 @@
 
 ---
 
-### 🌐 Portfolio & Links
 
-- 🚀 [Visit My Portfolio](https://janasa-portfolio.vercel.app/)  
-- 📨 [Email Me](mailto:nasrinjanasa@gmail.com)
-
----
 
 
 
